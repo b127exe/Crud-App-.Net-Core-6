@@ -1,0 +1,297 @@
+{
+  "Files": [
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\CrudASPCore.bundle.scp.css",
+      "PackagePath": "staticwebassets\\CrudASPCore.bundle.scp.css"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\image\\bcde62e4-21f1-4566-8826-c8b1191b5c31_chair4.jpg",
+      "PackagePath": "staticwebassets\\image\\bcde62e4-21f1-4566-8826-c8b1191b5c31_chair4.jpg"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\image\\bf0d944a-f52d-48e1-b5b1-2773a71f9101_Categories3.png",
+      "PackagePath": "staticwebassets\\image\\bf0d944a-f52d-48e1-b5b1-2773a71f9101_Categories3.png"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\image\\category_img_03202318504226.jpg",
+      "PackagePath": "staticwebassets\\image\\category_img_03202318504226.jpg"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\image\\feature_prod_02202311110220.jpg",
+      "PackagePath": "staticwebassets\\image\\feature_prod_02202311110220.jpg"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "PackagePath": "staticwebassets\\lib\\bootstrap"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\uploads\\user-images\\20d1acd0-e8d8-4054-b1fb-22162507bd0c_1.png",
+      "PackagePath": "staticwebassets\\uploads\\user-images\\20d1acd0-e8d8-4054-b1fb-22162507bd0c_1.png"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\uploads\\user-images\\21ba14bd-19f9-4cb4-a7a4-dd984eceda74_10.png",
+      "PackagePath": "staticwebassets\\uploads\\user-images\\21ba14bd-19f9-4cb4-a7a4-dd984eceda74_10.png"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\uploads\\user-images\\b89a26aa-93eb-4c90-b22e-df08978dc412_16.png",
+      "PackagePath": "staticwebassets\\uploads\\user-images\\b89a26aa-93eb-4c90-b22e-df08978dc412_16.png"
+    },
+    {
+      "Id": "D:\\ASP .Net Core projects\\Apps\\CrudASPCore\\CrudASPCore\\wwwroot\\uploads\\user-images\\f5df09ba-c2ea-4df9-b013-f454c412a031_my-picture.jpg",
+      "PackagePath": "staticwebassets\\uploads\\user-images\\f5df09ba-c2ea-4df9-b013-f454c412a031_my-picture.jpg"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.CrudASPCore.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.build.CrudASPCore.props",
+      "PackagePath": "build\\CrudASPCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildMultiTargeting.CrudASPCore.props",
+      "PackagePath": "buildMultiTargeting\\CrudASPCore.props"
+    },
+    {
+      "Id": "obj\\Debug\\net6.0\\staticwebassets\\msbuild.buildTransitive.CrudASPCore.props",
+      "PackagePath": "buildTransitive\\CrudASPCore.props"
+    }
+  ],
+  "ElementsToRemove": []
+}
